@@ -1,4 +1,4 @@
-<h1> MushYou </h1>
+<h1> MushYou <img src = "https://giphy.com/gifs/10e9iXNVDXy5MWbIXu"><img/></h1>
 
 Это приложение, созданное на [Next.js](https://nextjs.org/), основной целью которого является <p style = "color: gray;">придумать что-то...</p>
 <hr/>
@@ -42,5 +42,3 @@ npm run dev
   <li><href src = "https://github.com/Zertonixa">Zertonixa</href></li>
   <li>Сашка</li>
 </ul>
-
-<img src = "https://giphy.com/gifs/10e9iXNVDXy5MWbIXu" width = "500"/>
