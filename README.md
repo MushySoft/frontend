@@ -1,6 +1,6 @@
 <h1> MushYou <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDh1MTBtM3JtNmZiZzZyejNoMDVodDJtdHZsdnZxNG05ZjJpY3FhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10e9iXNVDXy5MWbIXu/giphy.gif" width = "20"><img/></h1>
 
-Это приложение, созданное на [Next.js](https://nextjs.org/), основной целью которого является <p style = "color: gray;">придумать что-то...</p>
+Это приложение, созданное на [Next.js](https://nextjs.org/), основной целью которого является ...
 <hr/>
 
 <h1>🛠 <br>Стек</br> </h1>
