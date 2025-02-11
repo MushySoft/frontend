@@ -32,13 +32,13 @@ npm install #Или yarn install
 npm run dev
 ```
 
-Далее откройте <href src="http://localhost:3000 ">http://localhost:3000 </href> в браузере
+Далее откройте http://localhost:3000 в браузере
 
 <hr/>
 
 <h1> Авторы клиентской части приложения </h1>
 <ul>
-  <li><href src = "https://github.com/gentelmen-iz-bpi2301">gentelmen-iz-bpi2301</href></li>
-  <li><href src = "https://github.com/Zertonixa">Zertonixa</href></li>
+  <li><a href="https://github.com/gentelmen-iz-bpi2301">gentelmen-iz-bpi2301</a></li>
+  <li><a href="https://github.com/Zertonixa">Zertonixa</a></li>
   <li>Сашка</li>
 </ul>
